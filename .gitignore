@@ -147,8 +147,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Other
-Barcelona crime compared to other cities.ipynb
-Insecurity perception.ipynb
 
 # End of https://www.gitignore.io/api/python,windows,jupyternotebooks
